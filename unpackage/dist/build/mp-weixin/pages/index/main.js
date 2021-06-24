@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/index/main"],{"1d99":function(e,t,n){"use strict";var o=n("a59a"),a=n.n(o);a.a},"492f":function(e,t,n){"use strict";n.r(t);var o=n("f533"),a=n("993e");for(var c in a)"default"!==c&&function(e){n.d(t,e,(function(){return a[e]}))}(c);n("1d99");var l,r=n("f0c5"),i=Object(r["a"])(a["default"],o["b"],o["c"],!1,null,null,null,!1,o["a"],l);t["default"]=i.exports},7861:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var o={name:"Components",data:function(){return{Template:[{title:"gamecube",name:"App设计",color:""},{title:"gamecube",name:"网站设计",color:""},{title:"gamecube",name:"Logo设计",color:""},{title:"gamecube",name:"海报设计",color:""}],kuxuan:[{title:"mapLocus",name:"地图轨迹",color:""},{title:"sign",name:"电子签名",color:""},{title:"charts",name:"图表展示",color:""},{title:"district",name:"行政区图",color:""},{title:"poster",name:"海报生成器",color:""},{title:"company",name:"自定义相机",color:""},{title:"discern",name:"证件识别",color:""},{title:"search",name:"便捷查询",color:""},{title:"openDocument",name:"文档预览",color:""},{title:"pano",name:"webview地图轨迹",color:""}],yangshi:[{title:"bggrad",name:"渐变动画",color:""},{title:"bgcolor",name:"纯色过渡",color:""},{title:"ancube",name:"立方体",color:""},{title:"anloading",name:"加载动画",color:""}]}},methods:{}};t.default=o},"993e":function(e,t,n){"use strict";n.r(t);var o=n("7861"),a=n.n(o);for(var c in o)"default"!==c&&function(e){n.d(t,e,(function(){return o[e]}))}(c);t["default"]=a.a},a59a:function(e,t,n){},f533:function(e,t,n){"use strict";var o,a=function(){var e=this,t=e.$createElement;e._self._c},c=[];n.d(t,"b",(function(){return a})),n.d(t,"c",(function(){return c})),n.d(t,"a",(function(){return o}))}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/index/main-create-component',
+    {
+        'pages/index/main-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("492f"))
+        })
+    },
+    [['pages/index/main-create-component']]
+]);
