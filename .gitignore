@@ -1,0 +1,9 @@
+.hbuilderx/
+.idea/
+unpackage/
+node_modules/
+dist/**
+.project
+.DS_Store
+wxcomponents/**/*.vue
+wxcomponents/**/*.css

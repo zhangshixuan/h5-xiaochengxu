@@ -88,7 +88,7 @@
 				this.getData = {
 					title: '来，一起手撕32个大厂高频面试编程题',
 					createTime: '2020年11月03日',
-					url: 'http://cdn.zhoukaiwen.com/5a97516eada18453046c61a263f41ef9.jpg',
+					url: 'http://cdn.zhoukaiwen.com/xiaochengxu.jpg',
 					content: "来，一起手撕32个大厂高频面试编程题，来，一起手撕32个大厂高频面试编程题，来，一起手撕32个大厂高频面试编程题。",
 				};
 			},

@@ -6,10 +6,10 @@
 			<block slot="content">首页</block>
 		</cu-custom>
 		
-		<!-- <add-tip :tip="tip" :duration="duration"/> -->
+		<add-tip :tip="tip" :duration="duration"/>
 
 		<!-- banner图 -->
-		<!-- <view class="uni-padding-wrap">
+		<view class="uni-padding-wrap">
 			<view class="page-section swiper">
 				<view class="page-section-spacing">
 					<swiper class="swiper" circular="true" indicator-dots="true" autoplay="true" interval="3500" duration="600">
@@ -21,7 +21,7 @@
 					</swiper>
 				</view>
 			</view>
-		</view> -->
+		</view>
 		
 		<!-- 导航栏 -->
 		<view class="cu-list grid solids-bottom col-4 no-border">
@@ -118,7 +118,7 @@
 				},
 
 				bannerList: [{
-						imageUrl: 'http://cdn.zhoukaiwen.com/zjx_banner3.png',
+						imageUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_banner3.png',
 					}, 
 					{
 						imageUrl: 'http://cdn.zhoukaiwen.com/zjx_banner1.png',
@@ -196,27 +196,28 @@
 				// console.log(e.currentTarget.dataset.mid)
 				if(e.currentTarget.dataset.mid == 1 || e.currentTarget.dataset.mid == 2 ){
 					uni.navigateTo({
-						url: '../timeline?mid=' + e.currentTarget.dataset.mid
+						url: '../../tn_components/pages/timeline?mid=' + e.currentTarget.dataset.mid
 					})
 				}else if(e.currentTarget.dataset.mid == 3){
 					uni.navigateTo({
-						url: '../project/list'
+						url: '../../tn_components/pages/project/list'
 					})
 				}
 			},
 			goProjectList(){
 				uni.navigateTo({
-					url: '../project/list'
+					url: '../../tn_components/pages/project/list'
 				})
 			},
 			goProject(){
 				uni.navigateTo({
-					url: '../project/project'
+					url: '../../tn_components/pages/project/project'
 				})
 			},
 			goVideo(){
+				return
 				uni.navigateTo({
-					url: '../video'
+					url: '../../tn_components/pages/video'
 				})
 			}
 		}

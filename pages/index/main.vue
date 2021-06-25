@@ -11,7 +11,7 @@
 		</view>
 		
 		<view class='nav-list margin-top'>
-			<navigator open-type="navigate" hover-class='none' :url="'../design?type=' + index" :class="'nav-li bg-index' + (index+1)"
+			<navigator open-type="navigate" hover-class='none' :url="'../../tn_components/pages/design?type=' + index" :class="'nav-li bg-index' + (index+1)"
 			 v-for="(item, index) in Template" :key="index">
 				<view class="nav-name">{{item.name}}</view>
 			</navigator>

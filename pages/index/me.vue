@@ -287,7 +287,7 @@
 			// 答题测试
 			mentalTest() {
 				uni.navigateTo({
-					url: '../me/mentalTest/list'
+					url: '../../tn_components/pages/me/mentalTest/list'
 				})
 			},
 			//拨打固定电话
