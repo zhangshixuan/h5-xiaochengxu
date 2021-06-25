@@ -26,7 +26,7 @@
 			openDocument() {
 				return
 				uni.downloadFile({
-					url: 'https://cdn.zhoukaiwen.com/kevin.pdf',
+					url: '',
 					success: function(res) {
 						var filePath = res.tempFilePath;
 						uni.openDocument({

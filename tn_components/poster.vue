@@ -49,7 +49,7 @@
 							//访问接口获取背景图携带自定义数据
 
 						},
-						backgroundImage:'https://cdn.zhoukaiwen.com/zjx_hb.png',
+						backgroundImage:'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_hb.png',
 						posterCanvasId: this.canvasId,	//canvasId
 						delayTimeScale: 20, //延时系数
 						/* background: {
@@ -78,7 +78,7 @@
 									},
 									{
 										type: 'image',
-										url: 'https://cdn.zhoukaiwen.com/logo.png',
+										url: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/logo.png',
 										alpha: .3,
 										dx,
 										dy: bgObj.height - bgObj.width * 0.25,

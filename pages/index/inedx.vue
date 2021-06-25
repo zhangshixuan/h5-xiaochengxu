@@ -121,13 +121,13 @@
 						imageUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_banner3.png',
 					}, 
 					{
-						imageUrl: 'http://cdn.zhoukaiwen.com/zjx_banner1.png',
+						imageUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_banner1.png',
 					},
 					{
-						imageUrl: 'http://cdn.zhoukaiwen.com/zjx_banner2.png',
+						imageUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_banner2.png',
 					},
 					{
-						imageUrl: 'http://cdn.zhoukaiwen.com/zjx_banner.png',
+						imageUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_banner.png',
 					}
 				],
 				categories: [{

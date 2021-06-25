@@ -1,5 +1,5 @@
 export default [{
-		imgUrl: 'https://cdn.zhoukaiwen.com/project1.jpeg',
+		imgUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/project1.jpeg',
 		type: '微信公众号/小程序',
 		name: '前后台商城，包含分销、秒杀、拼图、支付、砍价',
 		time: '2020-12-05',
@@ -11,7 +11,7 @@ export default [{
 		content: ''
 	},
 	{
-		imgUrl: 'https://cdn.zhoukaiwen.com/ybss_jt.png',
+		imgUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/ybss_jt.png',
 		type: '后台管理系统',
 		name: 'ToG端，一标三实信息管理平台，部分城市已上线',
 		time: '2020-12-05',

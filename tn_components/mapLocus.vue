@@ -43,7 +43,7 @@
 					rotate: 270,
 					latitude: 34.259428,
 					longitude: 108.947040,
-					iconPath: 'http://cdn.zhoukaiwen.com/car.png',
+					iconPath: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/car.png',
 					callout: {
 						content: "陕A·88888", // 车牌信息
 						display: "ALWAYS",
@@ -191,7 +191,7 @@
 					height: 32,
 					latitude: 0,
 					longitude: 0,
-					iconPath: "http://cdn.zhoukaiwen.com/car.png",
+					iconPath: "https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/car.png",
 					callout: {
 						content: "陕A·85Q1Q", // 车牌信息
 						display: "BYCLICK",

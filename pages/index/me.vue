@@ -49,7 +49,7 @@
 
 			<block>
 				<view class='text-center'>
-					<!-- <view class="cu-avatar2 round margin-right-sm shadow-blur bg-img" style="background-image:url(http://cdn.zhoukaiwen.com/head1.jpg);">
+					<!-- <view class="cu-avatar2 round margin-right-sm shadow-blur bg-img" style="background-image:url(https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head1.jpg);">
 					</view> -->
 
 					<view class="cu-avatar2 round xl margin-right-sm shadow-blur-lg bg-img open-data" style="overflow: hidden;">
@@ -205,22 +205,22 @@
 				modalName: null,
 				picName: '流星之夜',
 				pic: [{
-					link: 'http://cdn.zhoukaiwen.com/zjx_me_bg1.jpeg',
+					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg1.jpeg',
 					name: '春天'
 				}, {
-					link: 'http://cdn.zhoukaiwen.com/zjx_me_bg2.jpeg',
+					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg2.jpeg',
 					name: '夏天'
 				}, {
-					link: 'http://cdn.zhoukaiwen.com/zjx_me_bg3.jpeg',
+					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg3.jpeg',
 					name: '秋天'
 				}, {
-					link: 'http://cdn.zhoukaiwen.com/zjx_me_bg4.jpeg',
+					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg4.jpeg',
 					name: '冬天'
 				}, {
-					link: 'http://cdn.zhoukaiwen.com/zjx_me_bg5.jpeg',
+					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg5.jpeg',
 					name: '幽静'
 				}, {
-					link: 'http://cdn.zhoukaiwen.com/zjx_me_bg6.jpg',
+					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg6.jpg',
 					name: '天空'
 				}],
 				topBackGroupImageIndex: 5,
@@ -293,7 +293,7 @@
 			//拨打固定电话
 			callPhoneNumber() {
 				// uni.makePhoneCall({
-				// 	phoneNumber: "18629591093",
+				// 	phoneNumber: "13591367509",
 				// });
 			},
 			// 关于作者
@@ -304,15 +304,15 @@
 			},
 			// 薪资排名
 			goSalary() {
-				// uni.navigateTo({
-				// 	url: '../me/salary'
-				// })
+				uni.navigateTo({
+					url: '../../tn_components/pages/me/salary'
+				})
 			},
 			// 课班信息
 			goCourse() {
-				// uni.navigateTo({
-				// 	url: '../me/course'
-				// })
+				uni.navigateTo({
+					url: '../../tn_components/pages/me/course'
+				})
 			}
 		}
 	}
@@ -496,7 +496,7 @@
 		height: 400rpx;
 		position: absolute;
 		top: -100rpx;
-		background-image: url(http://cdn.zhoukaiwen.com/modal_bg.png);
+		background-image: url(https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/modal_bg.png);
 		background-size: 100%;
 		background-repeat: no-repeat;
 	}

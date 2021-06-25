@@ -68,7 +68,7 @@
 					
 					<view class="cu-item shadow">
 						<view class="content" style="padding: 0;">
-							<image src="http://cdn.zhoukaiwen.com/web2.jpg" mode="aspectFill"></image>
+							<image src="https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/web2.jpg" mode="aspectFill"></image>
 							<view class="desc">
 
 								<view class="list_title">
@@ -92,7 +92,7 @@
 					
 					<view class="cu-item shadow">
 						<view class="content" style="padding: 0;">
-							<image src="http://cdn.zhoukaiwen.com/web2.jpg" mode="aspectFill"></image>
+							<image src="https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/web2.jpg" mode="aspectFill"></image>
 							<view class="desc">
 					
 								<view class="list_title">

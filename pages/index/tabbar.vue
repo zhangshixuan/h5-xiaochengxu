@@ -25,7 +25,7 @@
 				</view>
 
 				<view @click="NavChange" class="action text-gray add-action" data-cur="cases">
-					<image class="logo_btn" mode="widthFix" src="https://cdn.zhoukaiwen.com/logo.png"></image>
+					<image class="logo_btn" mode="widthFix" src="https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/logo.png"></image>
 					<view :class="PageCur=='cases'?'color_main':'text-gray'">组件模板</view>
 				</view>
 

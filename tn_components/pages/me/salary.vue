@@ -8,7 +8,7 @@
 					<view class="top3">
 						<view class="num_two">
 							<image class="huangguan2" src="../../../static/rank/two.png"></image>
-							<image class="top3_head" src="http://cdn.zhoukaiwen.com/head2.jpg"></image>
+							<image class="top3_head" src="https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head2.jpg"></image>
 							<!-- <view class="top_name">{{twoName}}</view> -->
 							<view class="top_name">李*</view>
 							<view class="top_sy">成都·18000<span>元/月</span></view>
@@ -19,7 +19,7 @@
 					<view class="top3">
 						<view class="num_one">
 							<image class="huangguan1" src="../../../static/rank/one.png"></image>
-							<image class="top3_head" src="http://cdn.zhoukaiwen.com/head1.jpg"></image>
+							<image class="top3_head" src="https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head1.jpg"></image>
 							<!-- <view class="top_name" style="font-size: 30rpx;">{{oneName}}</view> -->
 							<view class="top_name text-bold" style="font-size: 30rpx;">王 * 鑫</view>
 							<view class="top_sy">北京·18000<span>元/月</span></view>
@@ -30,7 +30,7 @@
 					<view class="top3">
 						<view class="num_three">
 							<image class="huangguan2" src="../../../static/rank/three.png"></image>
-							<image class="top3_head" src="http://cdn.zhoukaiwen.com/head12.jpeg"></image>
+							<image class="top3_head" src="https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head12.jpeg"></image>
 							<view class="top_name">郭 * 杰</view>
 							<view class="top_sy">西安·17500<span>元/月</span></view>
 						</view>
@@ -90,47 +90,47 @@
 			return {
 				nowTime: '',
 				rankList: [{
-						headimgurl: 'http://cdn.zhoukaiwen.com/head4.jpg',
+						headimgurl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head4.jpg',
 						name: '张 *',
 						post: '全栈工程师',
 						city: '深圳',
 						salary: '17500'
 					}, {
-						headimgurl: 'http://cdn.zhoukaiwen.com/head5.jpg',
+						headimgurl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head5.jpg',
 						name: '李 * 阳',
 						post: 'Java后台工程师',
 						city: '杭州',
 						salary: '17000'
 					}, {
-						headimgurl: 'http://cdn.zhoukaiwen.com/head6.png',
+						headimgurl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head6.png',
 						name: '吕 * 浩',
 						post: 'Web前端工程师',
 						city: '西安',
 						salary: '16000'
 					},
 					{
-						headimgurl: 'http://cdn.zhoukaiwen.com/head7.jpg',
+						headimgurl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head7.jpg',
 						name: '张 * 鹏',
 						post: 'Web前端工程师',
 						city: '西安',
 						salary: '15500'
 					},
 					{
-						headimgurl: 'http://cdn.zhoukaiwen.com/head8.jpg',
+						headimgurl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head8.jpg',
 						name: '李 * 静',
 						post: 'Web前端工程师',
 						city: '西安',
 						salary: '15000'
 					},
 					{
-						headimgurl: 'http://cdn.zhoukaiwen.com/head9.jpg',
+						headimgurl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head9.jpg',
 						name: '周 * 德',
 						post: 'Web前端工程师',
 						city: '西安',
 						salary: '14000'
 					},
 					{
-						headimgurl: 'http://cdn.zhoukaiwen.com/head10.jpeg',
+						headimgurl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head10.jpeg',
 						name: '赵 *',
 						post: 'Web前端工程师',
 						city: '西安',
@@ -169,7 +169,7 @@
 	.top_bg {
 		width: 750rpx;
 		height: 650rpx;
-		background: url(http://cdn.zhoukaiwen.com/rank_bg.png) no-repeat;
+		background: url(https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/rank_bg.png) no-repeat;
 		background-size: 750rpx;
 		position: relative;
 	}

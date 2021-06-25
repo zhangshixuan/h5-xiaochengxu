@@ -25,7 +25,7 @@
 	</view>
 	
     <button class='' open-type="contact">
-      <image src='https://cdn.zhoukaiwen.com/logo.png' class='share-img png round shadow-lg bg-white' mode='aspectFit'>
+      <image src='https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/logo.png' class='share-img png round shadow-lg bg-white' mode='aspectFit'>
       </image>
     </button>
   </view>
