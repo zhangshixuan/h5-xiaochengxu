@@ -1,7 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "design-u-waterfall-left": "/pages/design-u-waterfall-left",
-    "design-u-waterfall-right": "/pages/design-u-waterfall-right"
-  }
-}
