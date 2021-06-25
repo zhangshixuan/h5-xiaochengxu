@@ -149,13 +149,13 @@
 					mid: '3',
 					name: '商业项目'
 				}, 
-				// {
-				// 	cuIcon: 'calendar',
-				// 	color: 'cyan',
-				// 	badge: 22,
-				// 	mid: '4',
-				// 	name: '文章资讯'
-				// },
+				{
+					cuIcon: 'calendar',
+					color: 'cyan',
+					badge: 22,
+					mid: '4',
+					name: '文章资讯'
+				},
 				],
 				curriculum: [{
 						name: 'uniapp项目开发',
