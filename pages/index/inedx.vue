@@ -210,9 +210,9 @@
 				})
 			},
 			goProject(){
-				uni.navigateTo({
-					url: '../../tn_components/pages/project/project'
-				})
+				// uni.navigateTo({
+				// 	url: '../../tn_components/pages/project/project'
+				// })
 			},
 			goVideo(){
 				return

@@ -64,9 +64,9 @@
 		},
 		methods: {
 			goProject(){
-				uni.navigateTo({
-					url: 'project'
-				})
+				// uni.navigateTo({
+				// 	url: 'project'
+				// })
 			}
 		}
 	}

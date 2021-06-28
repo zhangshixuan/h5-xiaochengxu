@@ -104,11 +104,11 @@
 						name: '自定义相机',
 						color: ''
 					},
-					{
-						title: 'discern',
-						name: '证件识别',
-						color: ''
-					},
+					// {
+					// 	title: 'discern',
+					// 	name: '证件识别',
+					// 	color: ''
+					// },
 					{
 						title: 'search',
 						name: '便捷查询',
