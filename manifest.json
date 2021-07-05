@@ -55,9 +55,9 @@
             "minified" : true
         },
         "usingComponents" : true,
-		"optimization" : {
-			"subPackages" : true
-		},
+        "optimization" : {
+            "subPackages" : true
+        },
         // "plugins" : {
         //     "tencentvideo" : {
         //         "version" : "1.3.17",
@@ -81,5 +81,9 @@
     },
     "uniStatistics" : {
         "enable" : false
+    },
+    "h5" : {
+        "title" : "忘忧草",
+        "domain" : "www.zhangshixuan925.top"
     }
 }

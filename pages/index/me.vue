@@ -49,7 +49,7 @@
 
 			<block>
 				<view class='text-center'>
-					<!-- <view class="cu-avatar2 round margin-right-sm shadow-blur bg-img" style="background-image:url(https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/head1.jpg);">
+					<!-- <view class="cu-avatar2 round margin-right-sm shadow-blur bg-img" style="background-image:url(https://cdn.zhoukaiwen.com/head1.jpg);">
 					</view> -->
 
 					<view class="cu-avatar2 round xl margin-right-sm shadow-blur-lg bg-img open-data" style="overflow: hidden;">
@@ -205,22 +205,22 @@
 				modalName: null,
 				picName: '流星之夜',
 				pic: [{
-					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg1.jpeg',
+					link: 'https://cdn.zhoukaiwen.com/zjx_me_bg1.jpeg',
 					name: '春天'
 				}, {
-					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg2.jpeg',
+					link: 'https://cdn.zhoukaiwen.com/zjx_me_bg2.jpeg',
 					name: '夏天'
 				}, {
-					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg3.jpeg',
+					link: 'https://cdn.zhoukaiwen.com/zjx_me_bg3.jpeg',
 					name: '秋天'
 				}, {
-					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg4.jpeg',
+					link: 'https://cdn.zhoukaiwen.com/zjx_me_bg4.jpeg',
 					name: '冬天'
 				}, {
-					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg5.jpeg',
+					link: 'https://cdn.zhoukaiwen.com/zjx_me_bg5.jpeg',
 					name: '幽静'
 				}, {
-					link: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_me_bg6.jpg',
+					link: 'https://cdn.zhoukaiwen.com/zjx_me_bg6.jpg',
 					name: '天空'
 				}],
 				topBackGroupImageIndex: 5,
@@ -496,7 +496,7 @@
 		height: 400rpx;
 		position: absolute;
 		top: -100rpx;
-		background-image: url(https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/modal_bg.png);
+		background-image: url(https://cdn.zhoukaiwen.com/modal_bg.png);
 		background-size: 100%;
 		background-repeat: no-repeat;
 	}

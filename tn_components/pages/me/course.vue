@@ -111,7 +111,7 @@
 						<view class="page-box">
 							<view>
 								<view class="centre">
-									<image src="https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/noData1.png" mode="widthFix"></image>
+									<image src="https://cdn.zhoukaiwen.com/noData1.png" mode="widthFix"></image>
 									<view class="explain">
 										暂无班级信息
 										<view class="tips">可以去看看有其他课程</view>
@@ -151,7 +151,7 @@ export default {
 					progre: 60,
 					goodsList: [
 						{
-							goodsUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/web2.jpg',
+							goodsUrl: 'https://cdn.zhoukaiwen.com/web2.jpg',
 							title: '第一阶段·5课时',
 							type: '课程名称：《vue-router全局导航守卫》，简介：导航首位就是变化的路由钩子...',
 							teacher: '王老师',
@@ -165,7 +165,7 @@ export default {
 					progre: 39,
 					goodsList: [
 						{
-							goodsUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/web1.jpg',
+							goodsUrl: 'https://cdn.zhoukaiwen.com/web1.jpg',
 							title: 'Promise的链式调用',
 							type: 'Promise 必须为以下三种状态之一：等待态（Pending）、执行态（Fulfilled）和拒绝态（Rejected）。一旦Promise 被 resolve 或 reject，不能再迁移至其他任何状态（即状态 immutable）。',
 							teacher: 'Lee老师',
@@ -179,7 +179,7 @@ export default {
 					progre: 55,
 					goodsList: [
 						{
-							goodsUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/web2.jpg',
+							goodsUrl: 'https://cdn.zhoukaiwen.com/web2.jpg',
 							title: '基于vue应用中实用的性能技巧',
 							type: '1.封装项目的基础库；2.层级管理；3.缓存；4.延迟加载；5.工程化-webpack的改进；6.控制代码质量；7.自动化部署等优化方案',
 							teacher: '王老师',
@@ -193,7 +193,7 @@ export default {
 					progre: 80,
 					goodsList: [
 						{
-							goodsUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/web1.jpg',
+							goodsUrl: 'https://cdn.zhoukaiwen.com/web1.jpg',
 							title: '变量提升及函数提升',
 							type: '引擎在读取js代码的过程中,分为两步。第一个步骤是整个js代码的解析读取,第二个步骤是执行',
 							teacher: '王老师',

@@ -7,13 +7,13 @@
 		</cu-custom>
 		
 		<view class="bannerBox">
-			<image class="ggBox" mode="widthFix" src="https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/Banner3.jpg"></image>
+			<image class="ggBox" mode="widthFix" src="https://cdn.zhoukaiwen.com/Banner3.jpg"></image>
 		</view>
 		
 		<!-- 答题主页面 -->
 		<view class="padding">
 			<view class="mainBox radius shadow-warp bg-white margin-top relative">
-				<view class="userHeard cu-avatar lg round" style="background-image:url(https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/logo.png);"></view>
+				<view class="userHeard cu-avatar lg round" style="background-image:url(https://cdn.zhoukaiwen.com/logo.png);"></view>
 				<view v-show="hasData">
 					<view class="animation-reverse shadow" :class="animation" data-class="slide-rights" v-if="DataList[num].serialNumber">
 						<view class="mentalTitle text-xl text-black text-bold">
@@ -61,7 +61,7 @@
 					</view>
 
 					<view class="closeImg">
-						<image mode="aspectFit" src="https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/answerTrophy.png"></image>
+						<image mode="aspectFit" src="https://cdn.zhoukaiwen.com/answerTrophy.png"></image>
 					</view>
 					<view class="text-black text-bold text-center">恭喜您！完成答题！</view>
 					<view class="text-center margin-tb-lg text-gray">{{showMessage}}</view>
@@ -383,7 +383,7 @@
 		color: #0081ff;
 		margin: 30rpx 0;
 		font-weight: 600;
-		background-image: url(https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/answerYes.png);
+		background-image: url(https://cdn.zhoukaiwen.com/answerYes.png);
 		background-repeat: no-repeat;
 		background-size: 38rpx;
 		background-position: right 30rpx center;

@@ -57,7 +57,7 @@
 		methods: {
 			getServerData() {
 				uni.request({
-					// url: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/dataV.json',
+					// url: 'https://cdn.zhoukaiwen.com/dataV.json',
 					url: 'http://192.168.5.105:8080/jeecg-boot/south/southGoverUser/loginVerify/ceshi',
 					data: {},
 					success: function(res) {

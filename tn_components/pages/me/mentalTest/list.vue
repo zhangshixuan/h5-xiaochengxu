@@ -6,7 +6,7 @@
 		</cu-custom>
 		
 		<view class="bannerBox">
-			<image mode="widthFix" src="https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/Banner4.jpg"></image>
+			<image mode="widthFix" src="https://cdn.zhoukaiwen.com/Banner4.jpg"></image>
 		</view>
 		
 		<view>

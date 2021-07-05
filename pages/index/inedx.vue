@@ -6,7 +6,7 @@
 			<block slot="content">首页</block>
 		</cu-custom>
 		
-		<add-tip :tip="tip" :duration="duration"/>
+		<!-- <add-tip :tip="tip" :duration="duration"/> -->
 
 		<!-- banner图 -->
 		<view class="uni-padding-wrap">
@@ -96,7 +96,11 @@
 			</view>
 		</view>
 
-		<view style="height: 140rpx;width: 1rpx;"></view>
+		<view style="height: 140rpx;">
+			<!-- <view class="action" style="text-align: center;">
+				<text class="text-lg text-grey text-shadow" style="font-size: 24rpx;">工业和信息化部备案管理系统网站 辽ICP备123号-1</text>
+			</view> -->
+		</view>
 	</view>
 </template>
 
@@ -118,16 +122,16 @@
 				},
 
 				bannerList: [{
-						imageUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_banner3.png',
+						imageUrl: 'https://cdn.zhoukaiwen.com/zjx_banner3.png',
 					}, 
 					{
-						imageUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_banner1.png',
+						imageUrl: 'https://cdn.zhoukaiwen.com/zjx_banner1.png',
 					},
 					{
-						imageUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_banner2.png',
+						imageUrl: 'https://cdn.zhoukaiwen.com/zjx_banner2.png',
 					},
 					{
-						imageUrl: 'https://mp-weixin-oss.oss-cn-beijing.aliyuncs.com/zjx_banner.png',
+						imageUrl: 'https://cdn.zhoukaiwen.com/zjx_banner.png',
 					}
 				],
 				categories: [{
