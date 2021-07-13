@@ -3,73 +3,73 @@ export default [{
 		"foods": [{
 				"name": "HTML/CSS",
 				"key": "HTML/CSS",
-				"icon": "https://cdn.zhoukaiwen.com/html.jpeg",
+				"icon": "https://cdn.zhangshixuan925.top/html.jpeg",
 				"cat": 10
 			},
 			{
 				"name": "Javascript",
 				"key": "Javascript",
-				"icon": "https://cdn.zhoukaiwen.com/JavaScript.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/JavaScript.jpg",
 				"cat": 10
 			},
 			{
 				"name": "Vue.js",
 				"key": "Vue.js",
-				"icon": "https://cdn.zhoukaiwen.com/vue.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/vue.jpg",
 				"cat": 10
 			},
 			{
 				"name": "React.js",
 				"key": "React.js",
-				"icon": "https://cdn.zhoukaiwen.com/react.png",
+				"icon": "https://cdn.zhangshixuan925.top/react.png",
 				"cat": 10
 			},
 			{
 				"name": "Angular",
 				"key": "Angular",
-				"icon": "https://cdn.zhoukaiwen.com/angular.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/angular.jpg",
 				"cat": 10
 			},
 			{
 				"name": "Node.js",
 				"key": "Node.js",
-				"icon": "https://cdn.zhoukaiwen.com/node.jpeg",
+				"icon": "https://cdn.zhangshixuan925.top/node.jpeg",
 				"cat": 10
 			},
 			{
 				"name": "jQuery",
 				"key": "jQuery",
-				"icon": "https://cdn.zhoukaiwen.com/jquery.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/jquery.jpg",
 				"cat": 10
 			},
 			{
 				"name": "Bootstrap",
 				"key": "Bootstrap",
-				"icon": "https://cdn.zhoukaiwen.com/bootstrap.png",
+				"icon": "https://cdn.zhangshixuan925.top/bootstrap.png",
 				"cat": 10
 			},
 			{
 				"name": "WebApp",
 				"key": "WebApp",
-				"icon": "https://cdn.zhoukaiwen.com/webapp.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/webapp.jpg",
 				"cat": 10
 			},
 			{
 				"name": "小程序",
 				"key": "小程序",
-				"icon": "https://cdn.zhoukaiwen.com/xiaochengxu.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/xiaochengxu.jpg",
 				"cat": 10
 			},
 			{
 				"name": "uniApp",
 				"key": "uniApp",
-				"icon": "https://cdn.zhoukaiwen.com/uniapp.png",
+				"icon": "https://cdn.zhangshixuan925.top/uniapp.png",
 				"cat": 10
 			},
 			{
 				"name": "前端工具",
 				"key": "前端工具",
-				"icon": "https://cdn.zhoukaiwen.com/web.png",
+				"icon": "https://cdn.zhangshixuan925.top/web.png",
 				"cat": 10
 			}
 		]
@@ -79,67 +79,67 @@ export default [{
 		"foods": [{
 				"name": "Java",
 				"key": "Java",
-				"icon": "https://cdn.zhoukaiwen.com/java.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/java.jpg",
 				"cat": 6
 			},
 			{
 				"name": "SpringBoot",
 				"key": "SpringBoot",
-				"icon": "https://cdn.zhoukaiwen.com/SpringBoot.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/SpringBoot.jpg",
 				"cat": 6
 			},
 			{
 				"name": "Spring Cloud",
 				"key": "Spring Cloud",
-				"icon": "https://cdn.zhoukaiwen.com/SpringCloud.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/SpringCloud.jpg",
 				"cat": 6
 			},
 			{
 				"name": "SSM",
 				"key": "SSM",
-				"icon": "https://cdn.zhoukaiwen.com/SSM.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/SSM.jpg",
 				"cat": 6
 			},
 			{
 				"name": "PHP",
 				"key": "PHP",
-				"icon": "https://cdn.zhoukaiwen.com/php.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/php.jpg",
 				"cat": 6
 			},
 			{
 				"name": "Python",
 				"key": "Python",
-				"icon": "https://cdn.zhoukaiwen.com/Python.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/Python.jpg",
 				"cat": 6
 			},
 			{
 				"name": "爬虫",
 				"key": "爬虫",
-				"icon": "https://cdn.zhoukaiwen.com/seo.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/seo.jpg",
 				"cat": 6
 			},
 			{
 				"name": "Django",
 				"key": "Django",
-				"icon": "https://cdn.zhoukaiwen.com/Django.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/Django.jpg",
 				"cat": 6
 			},
 			{
 				"name": "Go",
 				"key": "Go",
-				"icon": "https://cdn.zhoukaiwen.com/go.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/go.jpg",
 				"cat": 6
 			},
 			{
 				"name": "C++",
 				"key": "C++",
-				"icon": "https://cdn.zhoukaiwen.com/c.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/c.jpg",
 				"cat": 6
 			},
 			{
 				"name": "Ruby",
 				"key": "Ruby",
-				"icon": "https://cdn.zhoukaiwen.com/Ruby.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/Ruby.jpg",
 				"cat": 6
 			}
 		]
@@ -149,37 +149,37 @@ export default [{
 		"foods": [{
 				"name": "设计工具",
 				"key": "设计工具",
-				"icon": "https://cdn.zhoukaiwen.com/sheji.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/sheji.jpg",
 				"cat": 3
 			},
 			{
 				"name": "设计基础",
 				"key": "设计基础",
-				"icon": "https://cdn.zhoukaiwen.com/ui.png",
+				"icon": "https://cdn.zhangshixuan925.top/ui.png",
 				"cat": 3
 			},
 			{
 				"name": "Photpshop",
 				"key": "Photpshop",
-				"icon": "https://cdn.zhoukaiwen.com/ps.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/ps.jpg",
 				"cat": 3
 			},
 			{
 				"name": "动效动画",
 				"key": "动效动画",
-				"icon": "https://cdn.zhoukaiwen.com/dongxiao.gif",
+				"icon": "https://cdn.zhangshixuan925.top/dongxiao.gif",
 				"cat": 3
 			},
 			{
 				"name": "APPUI设计",
 				"key": "APPUI设计",
-				"icon": "https://cdn.zhoukaiwen.com/webapp.jpg",
+				"icon": "https://cdn.zhangshixuan925.top/webapp.jpg",
 				"cat": 3
 			},
 			{
 				"name": "产品交互",
 				"key": "产品交互",
-				"icon": "https://cdn.zhoukaiwen.com/jiaohu.png",
+				"icon": "https://cdn.zhangshixuan925.top/jiaohu.png",
 				"cat": 3
 			}
 

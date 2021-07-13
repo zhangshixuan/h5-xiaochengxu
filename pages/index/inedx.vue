@@ -96,10 +96,10 @@
 			</view>
 		</view>
 
-		<view style="height: 140rpx;">
-			<!-- <view class="action" style="text-align: center;">
-				<text class="text-lg text-grey text-shadow" style="font-size: 24rpx;">工业和信息化部备案管理系统网站 辽ICP备123号-1</text>
-			</view> -->
+		<view style="height: 180rpx;">
+			<view class="action" style="text-align: center;">
+				<navigator @tap="goICP" hover-class="navigator-hover" class="text-lg text-grey text-shadow" style="font-size: 24rpx;">{{icpText}}</navigator >
+			</view>
 		</view>
 	</view>
 </template>
@@ -113,6 +113,7 @@
 		},
 		data() {
 			return {
+				icpText: '',
 				tip:"点击「添加小程序」，下次访问更便捷",
 				duration:1,
 				
@@ -122,16 +123,16 @@
 				},
 
 				bannerList: [{
-						imageUrl: 'https://cdn.zhoukaiwen.com/zjx_banner3.png',
+						imageUrl: 'https://cdn.zhangshixuan925.top/zjx_banner3.png',
 					}, 
 					{
-						imageUrl: 'https://cdn.zhoukaiwen.com/zjx_banner1.png',
+						imageUrl: 'https://cdn.zhangshixuan925.top/zjx_banner1.png',
 					},
 					{
-						imageUrl: 'https://cdn.zhoukaiwen.com/zjx_banner2.png',
+						imageUrl: 'https://cdn.zhangshixuan925.top/zjx_banner2.png',
 					},
 					{
-						imageUrl: 'https://cdn.zhoukaiwen.com/zjx_banner.png',
+						imageUrl: 'https://cdn.zhangshixuan925.top/zjx_banner.png',
 					}
 				],
 				categories: [{
@@ -190,8 +191,20 @@
 		},
 		mounted() {
 			console.log(this.projectList)
+			this.getICP();
 		},
 		methods: {
+			getICP() {
+				console.log("123")
+				uni.request({
+				    url: 'https://wx-api.zhangshixuan925.top/icp/getICPTEXT',
+					method: 'GET',
+				    success: (res) => {
+				        console.log(res.data);
+				        this.icpText = res.data;
+				    }
+				});
+			},
 			scroll: function(e) {
 				console.log(e)
 				this.old.scrollTop = e.detail.scrollTop
@@ -223,6 +236,9 @@
 				uni.navigateTo({
 					url: '../../tn_components/pages/video'
 				})
+			},
+			goICP() {
+				window.location.href = "https://beian.miit.gov.cn/"
 			}
 		}
 	}

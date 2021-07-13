@@ -8,7 +8,7 @@
 				<cover-view class="topItem">{{address}}</cover-view>
 			</cover-view>
 
-			<cover-image @click="xzBtn" class="xzImg" src="https://cdn.zhoukaiwen.com/xz.png"></cover-image>
+			<cover-image @click="xzBtn" class="xzImg" src="https://cdn.zhangshixuan925.top/xz.png"></cover-image>
 			<cover-image @click="sgdBtn" class="sgdImg" :src="sgdUrl"></cover-image>
 
 			<cover-view class="cameraBtn" @click="takePhoto">
@@ -26,7 +26,7 @@
 					<cover-view @click="ViewImage(index)" class="imgBox" v-for="(item,index) in imgList" :key="index">
 						<cover-image class="imgItem" :src="item.src" mode="aspectFill"></cover-image>
 						<cover-view class="cu-tag" @tap.stop="DelImg" :data-index="index">
-							<cover-image class="iconClose" src="https://cdn.zhoukaiwen.com/icon_close.png" mode="aspectFill"></cover-image>
+							<cover-image class="iconClose" src="https://cdn.zhangshixuan925.top/icon_close.png" mode="aspectFill"></cover-image>
 						</cover-view>
 					</cover-view>
 				</cover-view>
@@ -74,10 +74,10 @@
 				nowTime: '', //日期
 				nowTime2: '', //时间
 				address: '',	//当前地址信息
-				sgdUrl: 'https://cdn.zhoukaiwen.com/sgd.png',
+				sgdUrl: 'https://cdn.zhangshixuan925.top/sgd.png',
 				imgList: [
 					// {
-					// 	src: "https://cdn.zhoukaiwen.com/angular.jpg"
+					// 	src: "https://cdn.zhangshixuan925.top/angular.jpg"
 					// }
 				],
 				imgListData: '',
@@ -162,10 +162,10 @@
 			sgdBtn() {
 				if (this.flash == 'off') {
 					this.flash = 'on'
-					this.sgdUrl = 'https://cdn.zhoukaiwen.com/sgd_on.png'
+					this.sgdUrl = 'https://cdn.zhangshixuan925.top/sgd_on.png'
 				} else {
 					this.flash = 'off'
-					this.sgdUrl = 'https://cdn.zhoukaiwen.com/sgd.png'
+					this.sgdUrl = 'https://cdn.zhangshixuan925.top/sgd.png'
 				}
 			},
 			DelImg(e) {
